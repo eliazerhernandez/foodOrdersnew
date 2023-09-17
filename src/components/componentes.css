@@ -1,0 +1,31 @@
+.menubtn{
+    background-color: skyblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    margin-top: 20px;    
+}
+.menubtn:hover{
+    background-color: blue;
+}
+
+.dropdown{
+   position: relative;
+   display: inline-block;
+}
+
+.dropdown-dos{
+    background-color: skyblue;
+}
+
+.dropdown-dos a{
+    color: blue;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-dos a:hover{
+    display: block;
+}
